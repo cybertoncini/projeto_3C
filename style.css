@@ -10,4 +10,5 @@
 
 body {
     background-color: var(--bg-color);
+    color: var(--tertiary-color);
 }
